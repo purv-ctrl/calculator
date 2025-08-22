@@ -1,2 +1,11 @@
-# calculator
-A simple Python-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Includes both CLI (Command Line Interface) version and optional GUI version using Tkinter.
+# 🧮 Python Calculator
+
+A simple calculator built with **Python**.  
+It supports the four basic arithmetic operations: **addition, subtraction, multiplication, and division**.  
+
+## 🚀 Features
+- Command Line Interface (CLI) version  
+- Handles invalid inputs gracefully  
+- Division by zero error handling  
+- (Optional) Graphical User Interface (GUI) using Tkinter  
+
